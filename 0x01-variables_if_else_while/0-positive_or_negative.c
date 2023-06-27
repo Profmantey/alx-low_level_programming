@@ -8,7 +8,7 @@
 
  * main - Entry point
 
- *
+ * Description: "check your number if it is positive or negative"
 
  * Return: Always 0 (Success)
 
